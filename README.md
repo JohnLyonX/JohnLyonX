@@ -42,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pojohnx&" alt="pojohnx" /></p>
 
-![snake gif](https://github.com/PoJohnX/PoJohnX/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/PoJohnX/PoJohnX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 <!---
 PoJohnX/PoJohnX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
