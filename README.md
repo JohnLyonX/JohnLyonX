@@ -21,7 +21,7 @@
 - ⚡ Fun fact **Won the third prize in the province and Zhongshan City from WEB Frontend**
 
 
-<p align="left" style="margin: 100px;"> <img src="https://komarev.com/ghpvc/?username=pojohnx&label=Profile%20views&color=0e75b6&style=flat" alt="pojohnx" /> </p>
+<p align="left" style="margin-top: 100px;"> <img src="https://komarev.com/ghpvc/?username=pojohnx&label=Profile%20views&color=0e75b6&style=flat" alt="pojohnx" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
