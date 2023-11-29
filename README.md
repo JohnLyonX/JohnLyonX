@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pojohnx&label=Profile%20views&color=0e75b6&style=flat" alt="pojohnx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **GeacSpaces(Cloud Projuct)**
 
 - 🌱 I’m currently learning **Java Python Cyber-Security and Frontend**
@@ -23,6 +21,8 @@
 - 📫 How to reach me **liangzhanbo06@gmail.com or liangzhanbo@gecspaces.com**
 
 - ⚡ Fun fact **Won the third prize in the province and Zhongshan City from WEB Frontend**
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
