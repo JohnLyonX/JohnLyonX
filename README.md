@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Po John(Lyon John)</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pojohnx&label=Profile%20views&color=0e75b6&style=flat" alt="pojohnx" /> </p>
 <h3 align="center">A passionate full-stack developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -19,8 +20,8 @@
 - 📫 How to reach me **liangzhanbo06@gmail.com or liangzhanbo@gecspaces.com**
 
 - ⚡ Fun fact **Won the third prize in the province and Zhongshan City from WEB Frontend**
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pojohnx&label=Profile%20views&color=0e75b6&style=flat" alt="pojohnx" /> </p>
+
+![snake gif](https://github.com/PoJohnX/PoJohnX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,16 +34,18 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Lyon John"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lyon John" /></a></p>
 
+<!--
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pojohnx&show_icons=true&locale=en&layout=compact" alt="pojohnx" />
 </p>
+-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pojohnx&show_icons=true&locale=en" alt="pojohnx" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pojohnx&show_icons=true&locale=en" alt="pojohnx" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pojohnx&" alt="pojohnx" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pojohnx&" alt="pojohnx" /></p>
 
-![snake gif](https://github.com/PoJohnX/PoJohnX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 <!---
 PoJohnX/PoJohnX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
