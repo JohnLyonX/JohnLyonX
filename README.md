@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Po John(Lyon John)</h1>
 <h3 align="center">A passionate full-stack developer from China</h3>
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pojohnx&label=Profile%20views&color=0e75b6&style=flat" alt="pojohnx" /> </p>
 
