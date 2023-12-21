@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly write articles on Sorry I don't write articles
+- 📝 I regularly write articles on my Blog
 
 - 💬 Ask me about **Not supported yet**
 
