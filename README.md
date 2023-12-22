@@ -41,8 +41,8 @@
 -->
 <p>
   <a href="https://www.buymeacoffee.com/liangzhanbg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="liangzhanbg" /></a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=johnlyonx&show_icons=true&locale=en" alt="johnlyonx" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=johnlyonx&" alt="johnlyonx" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnlyonx&show_icons=true&locale=en" alt="johnlyonx" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnlyonx&" alt="johnlyonx" />
 </p>
 <br/>
 <br/>
