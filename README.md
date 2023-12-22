@@ -45,8 +45,9 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=johnlyonx&" alt="johnlyonx" />
 </p>
-
-<div width='100'><a href="https://www.buymeacoffee.com/liangzhanbg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="liangzhanbg" /></a></div>
+<br/>
+<br/>
+<p><a href="https://www.buymeacoffee.com/liangzhanbg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="liangzhanbg" /></a></p>
 
 <!---
 PoJohnX/PoJohnX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
