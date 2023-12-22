@@ -23,7 +23,7 @@
 
 - 🪪 Blog: www.lyonjohn.xyz
 
-![snake gif](https://github.com/PoJohnX/PoJohnX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JohnLyonX/JohnLyonX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
