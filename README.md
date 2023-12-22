@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Not Now**
 
-- 👨‍💻 All of my projects are available at [JohnLyonX]
+- 👨‍💻 All of my projects are available at [Github](JohnLyonX)
 
 - 📝 I regularly write articles on my Blog
 
