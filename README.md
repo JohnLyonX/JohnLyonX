@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Python Cyber-Security and Frontend**
 
-- 👯 I’m looking to collaborate on **GeacSpaces And GeacShop**
+- 👯 I’m looking to collaborate on **supspider**
 
 - 🤝 I’m looking for help with **Not Now**
 
