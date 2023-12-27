@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GeacSpaces(Cloud Projuct)**
 
-- 🌱 I’m currently learning **Java Python Cyber-Security and Frontend**
+- 🌱 I’m currently learning **Java Golang Python Cyber-Security and Frontend**
 
 - 👯 I’m looking to collaborate on **supspider**
 
