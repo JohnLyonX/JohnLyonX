@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Won the third prize in the province and Zhongshan City from WEB Frontend**
 
-- 🪪 Blog: www.lyonjohn.xyz
+- 🪪 Blog: www.iamjohnlyon.com
 
 ![snake gif](https://github.com/JohnLyonX/JohnLyonX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
