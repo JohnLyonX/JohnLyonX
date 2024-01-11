@@ -3,9 +3,9 @@
 <h3 align="center">A passionate full-stack developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **GeacSpaces(Cloud Projuct)**
+- 🔭 I’m currently working on **HooliPiper(Cloud Projuct)**
 
-- 🌱 I’m currently learning **Java Golang Python Cyber-Security and Frontend**
+- 🌱 I’m currently learning **Java Golang Python Cyber-Security BigData and Frontend**
 
 - 👯 I’m looking to collaborate on **supspider**
 
