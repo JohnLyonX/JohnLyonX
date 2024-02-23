@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Lyon(梁展波)</h1>
-<p align="right"> <img src="[https://komarev.com/ghpvc/?username=johnlyonx&label=Profile%20views&color=0e75b6&style=flat](https://pic.sogou.com/pic/download.jsp?addressbar=hide&s_from=&statref=searchlist_hintword_up&v=5&keyword=动漫02图片&initQuery=动漫02图片&category_kind=searchList_bigMode&mode=1&mood=0&tagQSign=&start=0&xml_len=48&channel=&dataSource=searchhub&groupIndex=2&g_index=1&id=d7036c9a17f5fda2-677210b4c6871c9a-8d19a9d43ee43ec21728dc94fcfbc096&ssf=&group_docid=#!id=d7036c9a17f5fda2-677210b4c6871c9a-8d19a9d43ee43ec21728dc94fcfbc096&index=3)" alt="johnlyonx" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=johnlyonx&label=Profile%20views&color=0e75b6&style=flat" alt="johnlyonx" /> </p>
 <h3 align="center">A passionate full-stack developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
