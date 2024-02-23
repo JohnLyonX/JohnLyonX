@@ -1,4 +1,4 @@
-![02](https://github.com/JohnLyonX/JohnLyonX/assets/149916724/b2a6dc4f-4e60-45a8-8e16-1c50863bfac8)<h1 align="center">Hi 👋, I'm John Lyon(梁展波)</h1>
+<h1 align="center">Hi 👋, I'm John Lyon(梁展波)</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=johnlyonx&label=Profile%20views&color=0e75b6&style=flat" alt="johnlyonx" /> </p>
 <h3 align="center">A passionate full-stack developer from China</h3>
 <img align="right" alt="Coding" width="200" src="https://defgec.oss-cn-guangzhou.aliyuncs.com/02.jpg">
