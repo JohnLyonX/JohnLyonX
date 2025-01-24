@@ -23,7 +23,7 @@
 
 - 🪪 Blog: https://www.iamjohnlyon.com/ (need https to see the content)
 
-- 🩷 我有一个非常爱的女朋友她叫**张梓运**
+- 🩷 我有一个非常爱的女朋友她叫 **张梓运**
 
 ![snake gif](https://github.com/JohnLyonX/JohnLyonX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
