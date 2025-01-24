@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Lyon 我叫 **梁展波**</h1>
+<h1 align="center">Hi 👋, I'm John Lyon 我叫 梁展波</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=johnlyonx&label=Profile%20views&color=0e75b6&style=flat" alt="johnlyonx" /> </p>
 <h3 align="center">A passionate full-stack developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://johnlyongithub.oss-cn-guangzhou.aliyuncs.com/zzy.png">
