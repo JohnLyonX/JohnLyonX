@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://johnlyongithub.oss-cn-guangzhou.aliyuncs.com/zzy.png">
 
-- 🔭 我正在开发我自己的工作室EndFrame官网项目**
+- 🔭 我正在开发我自己的工作室**EndFrame官网项目**
 
 - 🌱 I’m currently learning **Java Golang Python Cyber-Security BigData and Frontend**
 
