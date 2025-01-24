@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Lyon(梁展波)</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=johnlyonx&label=Profile%20views&color=0e75b6&style=flat" alt="johnlyonx" /> </p>
 <h3 align="center">A passionate full-stack developer from China</h3>
-<img align="right" alt="Coding" width="400" src="https://johnlyongithub.oss-cn-guangzhou.aliyuncs.com/zzy.jpg">
+<img align="right" alt="Coding" width="400" src="https://johnlyongithub.oss-cn-guangzhou.aliyuncs.com/zzy.png">
 
-- 🔭 I’m currently working on **HooliPiper(Cloud Projuct)**
+- 🔭 我正在开发我自己的工作室EndFrame官网项目**
 
 - 🌱 I’m currently learning **Java Golang Python Cyber-Security BigData and Frontend**
 
@@ -23,7 +23,7 @@
 
 - 🪪 Blog: https://www.iamjohnlyon.com/ (need https to see the content)
 
-- 🩷 Love: ZZY
+- 🩷 我有一个非常爱的女朋友她叫**“张梓运”**
 
 ![snake gif](https://github.com/JohnLyonX/JohnLyonX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
