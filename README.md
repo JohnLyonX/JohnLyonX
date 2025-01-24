@@ -23,7 +23,7 @@
 
 - 🪪 Blog: https://www.iamjohnlyon.com/ (need https to see the content)
 
-- 🩷 Love: のように 02
+- 🩷 Love: ZZY
 
 ![snake gif](https://github.com/JohnLyonX/JohnLyonX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
