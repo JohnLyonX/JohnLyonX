@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Won the third prize in the province and Zhongshan City from WEB Frontend**
 
-- 🪪 Blog: https://www.iamjohnlyon.com/ (need https to see the content)
+- 🪪 Blog: https://www.0xliang.dev/ (need https to see the content)
 
 - 🩷 我有一个非常爱的女朋友她叫 **张梓运**
 
