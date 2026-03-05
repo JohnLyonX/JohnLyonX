@@ -3,9 +3,9 @@
 <h3 align="center">A passionate full-stack developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://johnlyongithub.oss-cn-guangzhou.aliyuncs.com/zzy.png">
 
-- 🔭 我正在开发我自己的工作室**EndFrame官网项目**
 
-- 🌱 I’m currently learning **Java Golang Python Cyber-Security BigData and Frontend**
+
+- 🌱 I’m currently learning **Java Rust Network-Security Frontend**
 
 - 👯 I’m looking to collaborate on **supspider**
 
@@ -21,11 +21,7 @@
 
 - ⚡ Fun fact **Won the third prize in the province and Zhongshan City from WEB Frontend**
 
-- 🪪 Blog: https://www.0xliang.dev/ (need https to see the content)
 
-- 🩷 我有一个非常爱的女朋友她叫 **张梓运**
-
-![snake gif](https://github.com/JohnLyonX/JohnLyonX/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
