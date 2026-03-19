@@ -1,25 +1,17 @@
-<h1 align="center">Hi 👋, I'm John Lyon 我叫 梁展波</h1>
+<h1 align="center">Hi 👋, I'm John Lyon Bobo</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=johnlyonx&label=Profile%20views&color=0e75b6&style=flat" alt="johnlyonx" /> </p>
 <h3 align="center">A passionate full-stack developer from China</h3>
 
 
 
 
-- 🌱 I’m currently learning **Java Rust Network-Security Frontend**
-
-- 👯 I’m looking to collaborate on **supspider**
-
-- 🤝 I’m looking for help with **Not Now**
+- 🌱 I’m currently learning ** Rust **
 
 - 👨‍💻 All of my projects are available at Github
 
 - 📝 I regularly write articles on my Blog
 
-- 💬 Ask me about **Not supported yet**
-
-- 📫 How to reach me **liangzhanbo06@gmail.com or liangzhanbo@gecspaces.com**
-
-- ⚡ Fun fact **Won the third prize in the province and Zhongshan City from WEB Frontend**
+- 📫 How to reach me **liangzhanbo06@gmail.com**
 
 
 
